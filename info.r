@@ -1,0 +1,5 @@
+name="Jingxi Chen"
+SID="539426"
+email="chjx1993@berkley.edu"
+github_name="chjx1993"
+status="CE"
